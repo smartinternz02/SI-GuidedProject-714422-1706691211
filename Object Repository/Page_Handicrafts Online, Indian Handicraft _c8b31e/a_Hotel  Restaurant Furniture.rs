@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hotel  Restaurant Furniture</name>
+   <tag></tag>
+   <elementGuidId>3aa7ee05-8edc-47a4-8338-8c94ac6e5a34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26701']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26701 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aceb3e4d-c549-477c-b9e3-922455cbfa61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/hotel-restaurant-furniture/</value>
+      <webElementGuid>bc6ee8d7-d5ef-4d65-82da-20a40746cd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hotel &amp; Restaurant Furniture</value>
+      <webElementGuid>7abb765e-d21c-4059-b528-1eaaad41009d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26701&quot;)/a[1]</value>
+      <webElementGuid>ef94a1e1-073c-432c-9f73-170a74e9219d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26701']/a</value>
+      <webElementGuid>4ed85dc2-6779-4ccf-b414-e2245082956b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hotel &amp; Restaurant Furniture')]</value>
+      <webElementGuid>dd7f3b4a-041b-42bb-a246-dd02ac80e120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outdoor Furniture'])[1]/following::a[1]</value>
+      <webElementGuid>29e83089-eb1e-4a81-8011-c036c8345093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cane Furniture'])[1]/following::a[2]</value>
+      <webElementGuid>9a503af4-91a0-4513-8e37-e11248ef409c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mudha'])[1]/preceding::a[1]</value>
+      <webElementGuid>b835aa87-5a0e-402d-9765-e5543222d7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mudha Stools'])[1]/preceding::a[2]</value>
+      <webElementGuid>2887c1e2-0dda-49ad-9852-c79de4fa1af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hotel &amp; Restaurant Furniture']/parent::*</value>
+      <webElementGuid>bfd0ac68-1258-4866-822b-ff2b2733a84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/hotel-restaurant-furniture/')]</value>
+      <webElementGuid>740a4b26-a3e9-4d66-968a-38a34920f06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>ebb06351-92f9-4681-be41-d9f23240e8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/hotel-restaurant-furniture/' and (text() = 'Hotel &amp; Restaurant Furniture' or . = 'Hotel &amp; Restaurant Furniture')]</value>
+      <webElementGuid>9c465802-d131-4b34-a312-c2bc5a8d4ea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

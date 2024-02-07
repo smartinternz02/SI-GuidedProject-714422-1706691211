@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Handmade Furnitures</name>
+   <tag></tag>
+   <elementGuidId>0aa3a98a-832a-4346-90b2-700d0bc2cdb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26660']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26660 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ad99aa7-da27-439b-ba8e-9a0a5dc9cd90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/handmade-furnitures/</value>
+      <webElementGuid>0a3f62e5-1273-4805-a098-7e9df331a5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Handmade Furnitures</value>
+      <webElementGuid>ff7d0e87-22c6-4f14-8073-79287aa2aec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26660&quot;)/a[1]</value>
+      <webElementGuid>e283cc70-4dc8-408c-9fce-f2b642d07e02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26660']/a</value>
+      <webElementGuid>31b001ce-a877-4c9e-a89e-c78f77bc4bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Handmade Furnitures')]</value>
+      <webElementGuid>a5f380f7-10e3-454a-bdc1-d415cfdd64c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key Holders'])[1]/following::a[1]</value>
+      <webElementGuid>ec288a5b-f5cc-4cec-8392-2c9d01b2bc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clock'])[1]/following::a[2]</value>
+      <webElementGuid>a7e27668-cbea-4c0d-abe7-78eb9152da9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bamboo Furniture'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fa160ef-1ce2-4efd-8abe-63f6de5e5fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bamboo Chair'])[1]/preceding::a[2]</value>
+      <webElementGuid>81b1f69b-e313-4172-8b62-36ffd73b9795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Handmade Furnitures']/parent::*</value>
+      <webElementGuid>5dbac017-37c6-49ce-a5fb-b01847118c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/handmade-furnitures/')]</value>
+      <webElementGuid>a34e4b79-5a38-429a-906f-314884d9c81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/div/ul/li[2]/a</value>
+      <webElementGuid>ba9dadc3-97ff-44c5-9e11-6a6215319dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/handmade-furnitures/' and (text() = 'Handmade Furnitures' or . = 'Handmade Furnitures')]</value>
+      <webElementGuid>be48ba60-fba9-44ac-9385-d987befa17b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

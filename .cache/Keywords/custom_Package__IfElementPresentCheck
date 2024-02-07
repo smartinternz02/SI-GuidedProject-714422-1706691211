@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "A19F19D0F3AC58116BE1580E437F20FD",
+  "keywordClasses": [
+    {
+      "name": "custom_Package.IfElementPresentCheck",
+      "keywordMethods": [
+        {
+          "name": "checkDropdownElementPresence",
+          "parameters": [
+            {
+              "name": "dropdownLocator",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "elementLocator",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
